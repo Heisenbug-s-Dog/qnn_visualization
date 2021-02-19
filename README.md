@@ -6,10 +6,10 @@ For QISKIT Hackathon Korea
 * [Dongmin Kim](https://github.com/dmk2436)
 * [Yisak Kim](https://github.com/yisakk)
 
-## Visual analyses of quantum neural networks
+## Visualistic evaluations of quantum neural network layers
 Original paper : *"Transfer learning in hybrid classical-quantum neural networks"* [arXiv:1912.08278](https://arxiv.org/abs/1912.08278) (2019).
 
-![Figure](figure_c2q_notebook.png)
+![Figure](images/figure.png)
 
 ## Motivations
 * The number of literatures on Quantum Machine Learning (QML) is rapidly increasing recently [1].
@@ -24,15 +24,21 @@ Original paper : *"Transfer learning in hybrid classical-quantum neural networks
 
 ## Contents
 * `classical_cat_dog.pt` : classical neural network
-* `quantum_cat_dog.pt` : neural network w/ quantum fc layer
+* `quantum_cat_dog.pt`: neural network w/ quantum fc layer
 * `quantum_deep_dream.ipynb` : quantum network deep dream [5]
-![deep_dream](images/deep_dream.PNG)  
+![deep_dream](images/deep_dream.PNG)
+
 * `quantum_network_saliency_map.ipynb` : quantum network saliency map [6]
-![saliency_map](images/saliency_map.PNG)  
+![saliency_map](images/saliency_map.PNG)
+
 * `t-sne_layer_by_layer.ipynb` : quantum network layer-wise t-sne [7]
-![tsne](images/tsne.PNG)  
+![tsne](images/tsne.PNG)
+
+* `quantum_layer_activation_visualization.ipynb` : quantum network layer activation manifold and whitening
+![activation](images/activation.PNG)
+
 * `quantum_loss_landscape.ipynb` : quantum network training loss landscapes [8]
-![loss_landscape](images/loss_landscape.PNG)  
+![loss_landscape](images/loss_landscape.PNG)
 
 [1] Biamonte, Jacob, et al. "Quantum machine learning." Nature 549.7671 (2017): 195-202.
 
