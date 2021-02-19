@@ -9,7 +9,7 @@ For QISKIT Hackathon Korea
 ## Visualistic evaluations of quantum neural network layers
 Original paper : *"Transfer learning in hybrid classical-quantum neural networks"* [arXiv:1912.08278](https://arxiv.org/abs/1912.08278) (2019).
 
-![Figure](images/figure.png)
+![Figure](images/figure_c2q_notebook.png)
 
 ## Motivations
 * The number of literatures on Quantum Machine Learning (QML) is rapidly increasing recently [1].
