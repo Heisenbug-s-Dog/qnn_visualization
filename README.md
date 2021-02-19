@@ -2,9 +2,9 @@
 For QISKIT Hackathon Korea
 
 ## Authors
-* [Joon Suk Huh](github.com/JsHHsJ)
-* [Dongmin Kim](github.com/dmk2436)
-* [Yisak Kim](github.com/yisakk)
+* [Joon Suk Huh](https://github.com/JsHHsJ)
+* [Dongmin Kim](https://github.com/dmk2436)
+* [Yisak Kim](https://github.com/yisakk)
 
 ## Visualistic evaluations of quantum neural network layers
 Original paper: *"Transfer learning in hybrid classical-quantum neural networks"* [arXiv:1912.08278](https://arxiv.org/abs/1912.08278) (2019).
