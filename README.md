@@ -1,2 +1,5 @@
 # qnn_visualization
-QISKIT Hackathon Korea
+For QISKIT Hackathon Korea
+
+## Authors
+Joon Suk Huh, Dongmin Kim, Yisak Kim
