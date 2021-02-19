@@ -26,6 +26,7 @@ Original paper: *"Transfer learning in hybrid classical-quantum neural networks"
 * `classical_cat_dog.pt`: classical neural network
 * `quantum_cat_dog.pt`: neural network w/ quantum fc layer
 * `quantum_deep_dream.ipynb`: quantum network deep dream [5]
+![deep_dream](/images/deep_dream.png)  
 * `quantum_network_saliency_map.ipynb`: quantum network saliency map [6]
 * `t-sne_layer_by_layer.ipynb`: quantum network layer-wise t-sne [7]
 * `quantum_loss_landscape.ipynb`: quantum network training loss landscapes [8]
