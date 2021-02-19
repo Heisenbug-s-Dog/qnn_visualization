@@ -6,7 +6,7 @@ For QISKIT Hackathon Korea
 * [Dongmin Kim](https://github.com/dmk2436)
 * [Yisak Kim](https://github.com/yisakk)
 
-## Visualistic evaluations of quantum neural network layers
+## Visualistic analyses of quantum neural networks
 Original paper: *"Transfer learning in hybrid classical-quantum neural networks"* [arXiv:1912.08278](https://arxiv.org/abs/1912.08278) (2019).
 
 ![Figure](figure_c2q_notebook.png)
