@@ -27,11 +27,19 @@ Original paper: *"Transfer learning in hybrid classical-quantum neural networks"
 * `t-sne_layer_by_layer.ipynb`: quantum network layer-wise t-sne [7]
 * `quantum_loss_landscape.ipynb`: quantum network training loss landscapes [8]
 
-[1] Biamonte, Jacob, et al. "Quantum machine learning." Nature 549.7671 (2017): 195-202.
-[2] Jeswal, S. K., and S. Chakraverty. "Recent developments and applications in quantum neural network: a review." Archives of Computational Methods in Engineering 26.4 (2019): 793-807.
-[3] Beer, Kerstin, et al. "Training deep quantum neural networks." Nature communications 11.1 (2020): 1-6.
-[4] Mari, Andrea, et al. "Transfer learning in hybrid classical-quantum neural networks." Quantum 4 (2020): 340.
-[5] Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). "DeepDream - a code example for visualizing Neural Networks". Google Research. Archived from the original on 2015-07-08.
-[6] Simonyan, Karen, Andrea Vedaldi, and Andrew Zisserman. "Deep inside convolutional networks: Visualising image classification models and saliency maps." arXiv preprint arXiv:1312.6034 (2013).
-[7] Hinton, Geoffrey, and Sam T. Roweis. "Stochastic neighbor embedding." NIPS. Vol. 15. 2002.
-[8] Li, Hao, et al. "Visualizing the loss landscape of neural nets." arXiv preprint arXiv:1712.09913 (2017).
+<a id="1">[1]</a> 
+Biamonte, Jacob, et al. "Quantum machine learning." Nature 549.7671 (2017): 195-202.
+<a id="2">[2]</a> 
+Jeswal, S. K., and S. Chakraverty. "Recent developments and applications in quantum neural network: a review." Archives of Computational Methods in Engineering 26.4 (2019): 793-807.
+<a id="3">[3]</a> 
+Beer, Kerstin, et al. "Training deep quantum neural networks." Nature communications 11.1 (2020): 1-6.
+<a id="4">[4]</a> 
+Mari, Andrea, et al. "Transfer learning in hybrid classical-quantum neural networks." Quantum 4 (2020): 340.
+<a id="5">[5]</a> 
+Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). "DeepDream - a code example for visualizing Neural Networks". Google Research. Archived from the original on 2015-07-08.
+<a id="6">[6]</a> 
+Simonyan, Karen, Andrea Vedaldi, and Andrew Zisserman. "Deep inside convolutional networks: Visualising image classification models and saliency maps." arXiv preprint arXiv:1312.6034 (2013).
+<a id="7">[7]</a> 
+Hinton, Geoffrey, and Sam T. Roweis. "Stochastic neighbor embedding." NIPS. Vol. 15. 2002.
+<a id="8">[8]</a> 
+Li, Hao, et al. "Visualizing the loss landscape of neural nets." arXiv preprint arXiv:1712.09913 (2017).
